@@ -1,0 +1,9 @@
+{
+	"name": "BMWDataFacotryForGitHub",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0bf6811a-b08e-40f7-8df4-ace0177c02bb",
+		"tenantId": "12d3fd71-98cd-49e0-872f-0e4b0feea19d"
+	}
+}
